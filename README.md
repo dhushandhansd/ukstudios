@@ -14,6 +14,6 @@ All the content in the Platform is subject to copyrights. Any use without the pe
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Previews
-<img src="images/ukstudiospage1.PNG">
-<img src="images/ukstudiospage2.PNG">
-<img src="images/ukstudiospage3.PNG">
+<img src="Images/ukstudiospage1.PNG">
+<img src="Images/ukstudiospage2.PNG">
+<img src="Images/ukstudiospage3.PNG">
