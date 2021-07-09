@@ -1,0 +1,14 @@
+* {
+  font-family: 'Segoe UI','Verdana';
+  padding: 0px;
+  margin: 0px;
+}
+
+.starter-plan, .elite-plan, .premium-plan {
+  background-color:#171717 ;
+}
+
+#newsletterComment {
+  display: none;
+}
+
